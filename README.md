@@ -3,9 +3,6 @@ A machine learning project to predict US visa approval outcomes using applicant 
 
 
 
-```
-
-export MONGODB_URL="mongodb+srv://<username>:<password>...."
 
 
 
